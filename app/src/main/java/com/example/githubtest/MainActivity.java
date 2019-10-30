@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         tv=findViewById(R.id.tv);
         tv.setText("성공");
+        tv.setText("NICE");
     }
 }
